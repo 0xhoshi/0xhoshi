@@ -1,4 +1,10 @@
-### Hi there 👋
+# Zaim ?
+
+
+### About Me
+- Student
+- Foundation in Computer Science
+- 19
 
 <!--
 **kanezare/kanezare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
